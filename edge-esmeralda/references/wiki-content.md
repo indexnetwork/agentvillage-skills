@@ -1,7 +1,7 @@
 # Edge Esmeralda 2026 Wiki
 
 Source: https://www.notion.so/edgecity/Edge-Esmeralda-2026-Wiki-317d45cdfc5981d2a571f52b024c5141
-Last indexed: 2026-06-01T20:50:28.204Z
+Last indexed: 2026-06-01T22:55:27.800Z
 
 ---
 
@@ -72,8 +72,6 @@ This wiki has all the important information regarding Edge Esmeralda 2026. If yo
 ---
 
 ### 🚲 Transport & Getting Around
-
-Looking to ride share?  Go here → (https://docs.google.com/spreadsheets/d/1LLYDrNjCgiPnHz5glreRh3FFJItrAbb9KHCfLoXIvmU/edit?gid=1235934074#gid=1235934074)
 
 ---
 
@@ -204,7 +202,7 @@ Lunch Meal Plans
  Here's our post explaining our Lunch Meal Plans.  (https://edgeesmeralda2026.substack.com/p/meal-plans-at-edge-esmeralda-2026)TDLR; 
 
 - We’ve partnered with Jimtown and Then Sum (https://jimtown.com/) to provide fresh and healthy lunches Monday - Friday delivered to 405 Healdsburg from 12pm - 1pm!
-- Participants must  (https://www.notion.so/a68d45cdfc59822aac5901fa5a80e783)pay for a pre-purchased meal ticket here (https://edgecity.simplefi.tech/portal/edge-esmeralda-2026/passes). (https://www.notion.so/a68d45cdfc59822aac5901fa5a80e783) 
+- Participants must  (https://www.notion.so/a68d45cdfc59822aac5901fa5a80e783)pay for a pre-purchased meal ticket here (https://edgecity.simplefi.tech/portal/edge-esmeralda-2026/passes).
 - Here’s a video explanation on purchasing the meal plan. (https://www.loom.com/share/6d3df958eadb44cfa8d288a61f4d1ba5) 
 - You must buy a lunch ticket the Friday morning before the upcoming week.
 - We have a no refund policy once you’ve purchased a meal plan for a given week: this keeps waste down and lets Jimtown and Then Sum (https://jimtown.com/) team plan properly.
@@ -364,6 +362,8 @@ Healdsburg is a small, walkable town — you won't need a car for your day-to-da
 - Hotel Trio is ~7 min bike ride to downtown via Serendipity Lane (car-free path)
 - Rideshare (Uber/Lyft) works well in the area
 - For excursions and regional adventures, carpooling / renting a car is recommended
+Looking to ride share?  Go here → (https://docs.google.com/spreadsheets/d/1LLYDrNjCgiPnHz5glreRh3FFJItrAbb9KHCfLoXIvmU/edit?gid=1235934074#gid=1235934074)
+
 Healdsburg is located in Sonoma County, Northern California - about 1.5 hours north of San Francisco.
 
 Nearest airports:
@@ -453,6 +453,8 @@ Parking around town
 - The Hub / Loft area: bike racks in front of The Loft, on North Street next to Portalupi Wine, or across from Little Saint
 - Hotel Trio: bike racks in front and on the left side of the hotel
 - ⚠️ Do not park at the entrance of The Hub
+image.png
+
 Security
 
 - Always use the rear wheel lock (lock by hand, unlock via the Drop Mobility app)
